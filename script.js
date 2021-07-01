@@ -9,10 +9,13 @@ const favColor = "orange"
 
 const favAnimal = "cat"
 
-const favFriend = "Jack Farrell"
+const favFriend = "You"
+
+const favDevice = "Macbook Air"
 
 
 // The QUESTIONS/CONVERSATION
 alert("Hello there! My name is Jack Bot!")
 const yourName = prompt("What's your name? ")
+alert("I am being updated... if you continue it might be buggy!")
 alert("Hello " + yourName + "!")
