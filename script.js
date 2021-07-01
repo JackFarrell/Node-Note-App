@@ -1,13 +1,5 @@
-// Setting things up
-document.getElementById("helpText").style.display = "none"
-
-// Help button
-const help = document.getElementById("helpText")
-function help() {
-    document.getElementById("helpText").style.display = "block"
-}
-
 // Intro
+alert("For maximum experience... please turn on your screen reader in settings!")
 alert("Welcome to Jack Bot's 'brain' code! Here is Jack Bot...")
 
 // My stuff
